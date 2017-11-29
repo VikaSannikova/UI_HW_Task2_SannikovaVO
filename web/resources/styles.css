@@ -1,0 +1,34 @@
+.input_form input {
+    height:20px;
+    width:60px;
+    padding:5px 5px;
+}
+.input_form button {
+    margin-top:10px;
+    margin-left:210px;
+}
+
+.lux {
+    width: 300px;
+    border: 2px ridge black;
+    border-collapse: collapse;
+}
+.lux thead {
+    background: #7f89ff;
+}
+.lux td {
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+.lux td, .lux th {
+    padding: 4px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.oddrows {
+    background: #E6EEEE;
+}
+.evenrows {
+    background: #d1fff3;
+}
